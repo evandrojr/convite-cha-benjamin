@@ -10,30 +10,31 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+
 	</head>
 	<body>
 
 		<!-- Header -->
 			<header id="header">
-				<div class="logo"><a href="index.html">Benjamin<span> convidou você!</span></a></div>
-				<a href="#menu"><span>Menu</span></a>
+				<div class="logo"><a href="index.html">Benjamin<span> convida você!</span></a></div>
+				<!-- <a href="#menu"><span>Menu</span></a> -->
 			</header>
 
 
-			<div id="video">
+			<!-- <div id="video">
 
 				<iframe  style="float:right" width="560" height="315" src="https://www.youtube.com/embed/Q2PrB_-MbX4?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0"
 					frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-			</div>
+			</div> -->
 
 		<!-- Nav -->
-			<nav id="menu">
+			<!-- <nav id="menu">
 				<ul class="links">
 					<li><a href="index.html">Home</a></li>
 					<li><a href="generic.html">Generic</a></li>
 					<li><a href="elements.html">Elements</a></li>
 				</ul>
-			</nav>
+			</nav> -->
 
 		<!-- Banner -->
 		<!--
@@ -129,7 +130,7 @@
 			<footer id="footer">
 				<div class="inner">
 
-					<br><br><br><br><br><br><br>
+					<!-- <br><br><br><br><br><br><br> -->
 					<!-- <h2>Contact Me</h2>
 
 					<form action="#" method="post">
@@ -171,6 +172,24 @@
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="https://code.createjs.com/1.0.0/soundjs.min.js"></script>
 
+			<script>
+ createjs.Sound.alternateExtensions = ["mp3"];
+ createjs.Sound.on("fileload", this.loadHandler, this);
+ createjs.Sound.registerSound("./assets/audio/mfb.mp3", "sound");
+ function loadHandler(event) {
+     // This is fired for each sound that is registered.
+     var instance = createjs.Sound.play("sound");  // play using id.  Could also use full sourcepath or event.src.
+     instance.on("complete", this.handleComplete, this);
+    //  instance.volume = 0.5;
+ }
+
+
+				// createjs.Sound.registerSound("./assets/audio/mfb.mp3", "x");
+				// setTimeout(function () {
+				// 	createjs.Sound.play("x");
+				// }, 10000)
+			</script>
 	</body>
 </html>
