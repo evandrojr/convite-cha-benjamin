@@ -56,12 +56,12 @@
 				<div class="inner">
 					<article class="box">
 						<header>
-							<h2>Nibh non lobortis mus nibh</h2>
-							<p>01.01.2017</p>
+							<h2>"Educa a criança no caminho em que deve andar; e até quando envelhecer não se desviará dele".</h2>
+							<p>(Provérbios 22:6)</p>
 						</header>
-						<div class="content">
+						<!-- <div class="content">
 							<p>Scelerisque enim mi curae erat ultricies lobortis donec velit in per cum consectetur purus a enim platea vestibulum lacinia et elit ante scelerisque vestibulum. At urna condimentum sed vulputate a duis in senectus ullamcorper lacus cubilia consectetur odio proin sociosqu a parturient nam ac blandit praesent aptent. Eros dignissim mus mauris a natoque ad suspendisse nulla a urna in tincidunt tristique enim arcu litora scelerisque eros suspendisse.</p>
-						</div>
+						</div> -->
 						<footer>
 							<!-- <a href="generic.html" class="button alt">Learn More</a> -->
 						</footer>
@@ -75,12 +75,12 @@
 				<div class="inner">
 					<article class="box">
 						<header>
-							<h2>Mus elit a ultricies at</h2>
-							<p>12.21.2016</p>
+							<h2> "Em verdade vos digo que, se não vos converterdes e não vos fizerdes como meninos, de modo algum entrareis no reino dos céus. Portanto, aquele que se tornar humilde como este menino, esse é o maior no reino dos céus."</h2>
+							<p>(Mateus 18:2-3)</p>
 						</header>
-						<div class="content">
+						<!-- <div class="content">
 							<p>Scelerisque enim mi curae erat ultricies lobortis donec velit in per cum consectetur purus a enim platea vestibulum lacinia et elit ante scelerisque vestibulum. At urna condimentum sed vulputate a duis in senectus ullamcorper lacus cubilia consectetur odio proin sociosqu a parturient nam ac blandit praesent aptent. Eros dignissim mus mauris a natoque ad suspendisse nulla a urna in tincidunt tristique enim arcu litora scelerisque eros suspendisse.</p>
-						</div>
+						</div> -->
 						<footer>
 							<!-- <a href="generic.html" class="button alt">Learn More</a> -->
 						</footer>
@@ -94,11 +94,14 @@
 				<div class="inner">
 					<article class="box">
 						<header>
-							<h2>Varius a cursus aliquet</h2>
-							<p>11.11.2016</p>
+							<h2>Missão:</h2>
+							<!-- <p>11.11.2016</p> -->
 						</header>
 						<div class="content">
-							<p>Scelerisque enim mi curae erat ultricies lobortis donec velit in per cum consectetur purus a enim platea vestibulum lacinia et elit ante scelerisque vestibulum. At urna condimentum sed vulputate a duis in senectus ullamcorper lacus cubilia consectetur odio proin sociosqu a parturient nam ac blandit praesent aptent. Eros dignissim mus mauris a natoque ad suspendisse nulla a urna in tincidunt tristique enim arcu litora scelerisque eros suspendisse.</p>
+						<h4>Filho amado, bem amado<br>
+Filho da nossa felicidade,  aquele que traz alegrias sem fim<br>
+Filho da mão direita, filho forte e companheiro, filho com quem podemos contar<br>
+Filho do povo de Deus, filho amado de Deus</h4>
 						</div>
 						<footer>
 							<!-- <a href="generic.html" class="button alt">Learn More</a> -->
@@ -113,11 +116,13 @@
 				<div class="inner">
 					<article class="box">
 						<header>
-							<h2>Luctus blandit mi lectus in nascetur</h2>
-							<p>10.30.2016</p>
+							<h2>Local: Restaurante Mariposa, no shopping bolevard  161, Pituba<br>
+Horário: de 15:00 h às 18:00 hs.<br>
+Tamanho da fralda: <?php echo $_GET['tamanho'] ?></h2>
+							<!-- <p>10.30.2016</p> -->
 						</header>
 						<div class="content">
-							<p>Scelerisque enim mi curae erat ultricies lobortis donec velit in per cum consectetur purus a enim platea vestibulum lacinia et elit ante scelerisque vestibulum. At urna condimentum sed vulputate a duis in senectus ullamcorper lacus cubilia consectetur odio proin sociosqu a parturient nam ac blandit praesent aptent. Eros dignissim mus mauris a natoque ad suspendisse nulla a urna in tincidunt tristique enim arcu litora scelerisque eros suspendisse.</p>
+							<h3>(Comanda individual)</h3>
 						</div>
 						<footer>
 							<!-- <a href="generic.html" class="button alt">Learn More</a> -->
@@ -127,8 +132,8 @@
 			</section>
 
 		<!-- Footer -->
-			<footer id="footer">
-				<div class="inner">
+			<!-- <footer id="footer">
+				<div class="inner"> -->
 
 					<!-- <br><br><br><br><br><br><br> -->
 					<!-- <h2>Contact Me</h2>
@@ -162,8 +167,8 @@
 						&copy; Untitled. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a href="https://unsplash.com">Unsplash</a>.
 					</div> -->
 
-				</div>
-			</footer>
+				<!-- </div>
+			</footer> -->
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
