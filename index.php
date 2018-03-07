@@ -142,20 +142,20 @@ echo $tamanho; ?>
 			</section>
 
 		<!-- Two -->
-		<section id="five" class="wrapper post bg-img" data-bg="banner5.jpg">
+		<section id="five" class="wrapper" data-bg="banner5.jpg">
 				<div class="inner">
-					<article class="box">
+					<!-- <article class="box">
 						<header>
-						<!-- <h2>Nossa benção está chegando...</h2> -->
-						<!-- <p>(Mateus 18:2-3)</p> -->
+						<h2>Nossa benção está chegando...</h2>
+						<p>(Mateus 18:2-3)</p>
 						</header>
-						<!-- <div class="content">
+						<div class="content">
 							<p>Scelerisque enim mi curae erat ultricies lobortis donec velit in per cum consectetur purus a enim platea vestibulum lacinia et elit ante scelerisque vestibulum. At urna condimentum sed vulputate a duis in senectus ullamcorper lacus cubilia consectetur odio proin sociosqu a parturient nam ac blandit praesent aptent. Eros dignissim mus mauris a natoque ad suspendisse nulla a urna in tincidunt tristique enim arcu litora scelerisque eros suspendisse.</p>
-						</div> -->
+						</div>
 						<footer>
-							<!-- <a href="generic.html" class="button alt">Learn More</a> -->
+							<a href="generic.html" class="button alt">Learn More</a>
 						</footer>
-					</article>
+					</article> -->
 				</div>
 				<!-- <a href="#three" class="more">Learn More</a> -->
 			</section>
