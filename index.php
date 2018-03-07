@@ -116,11 +116,11 @@ Filho do povo de Deus, filho amado de Deus</h4>
 				<div class="inner">
 					<article class="box">
 						<header>
-							<h2>Local: Restaurante Mariposa<BR>
+							<h4>Local: Restaurante Mariposa<BR>
 								Shopping Boulevard 161, Pituba<br>
 								Data: Sábado, 10 de Março de 2018<br>
 Horário: 14:00hs às 18:00hs<br>
-Tamanho da fralda: <?php echo $_GET['tamanho'] ?></h2>
+Tamanho da fralda: <?php echo $_GET['tamanho'] ?></h4>
 							<!-- <p>10.30.2016</p> -->
 						</header>
 						<div class="content">
