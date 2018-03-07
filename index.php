@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Chá de Fraldas de Benjamin</title>
+		<title>Convite para o Chá de Fraldas de Benjamin</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
