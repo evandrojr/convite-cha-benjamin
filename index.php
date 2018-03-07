@@ -120,7 +120,15 @@ Filho do povo de Deus, filho amado de Deus</h5>
 								Shopping Boulevard 161, Pituba<br>
 								Data: Sábado, 10 de Março de 2018<br>
 Horário: 14:00hs às 18:00hs<br>
-Tamanho da fralda: <?php echo $_GET['tamanho'] ?></h5>
+Tamanho da fralda: <?php
+
+$tamanho =  htmlspecialchars($_GET['tamanho'], ENT_QUOTES, 'UTF-8');
+if($tamanho==""){
+	$tamanho="G";
+}
+
+echo $tamanho; ?>
+</h5>
 							<!-- <p>10.30.2016</p> -->
 						</header>
 						<div class="content">
