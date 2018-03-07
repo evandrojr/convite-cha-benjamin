@@ -56,7 +56,7 @@
 				<div class="inner">
 					<article class="box">
 						<header>
-							<h2>"Educa a criança no caminho em que deve andar; e até quando envelhecer não se desviará dele".</h2>
+							<h4>"Educa a criança no caminho em que deve andar; e até quando envelhecer não se desviará dele".</h4>
 							<p>(Provérbios 22:6)</p>
 						</header>
 						<!-- <div class="content">
@@ -94,14 +94,14 @@
 				<div class="inner">
 					<article class="box">
 						<header>
-							<h2>Missão:</h2>
+							<h4>Missão:</h4>
 							<!-- <p>11.11.2016</p> -->
 						</header>
 						<div class="content">
-						<h4>Filho amado, bem amado<br>
+						<h5>Filho amado, bem amado<br>
 Filho da nossa felicidade,  aquele que traz alegrias<br>
 Filho da mão direita, filho forte e companheiro<br>
-Filho do povo de Deus, filho amado de Deus</h4>
+Filho do povo de Deus, filho amado de Deus</h5>
 						</div>
 						<footer>
 							<!-- <a href="generic.html" class="button alt">Learn More</a> -->
