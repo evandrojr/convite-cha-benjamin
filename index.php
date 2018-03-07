@@ -118,7 +118,7 @@ Filho do povo de Deus, filho amado de Deus</h4>
 						<header>
 							<h2>Local: Restaurante Mariposa<BR>
 								Shopping Boulevard 161, Pituba<br>
-Horário: de 15:00 h às 18:00 hs.<br>
+Horário: 15:00 h às 18:00 hs.<br>
 Tamanho da fralda: <?php echo $_GET['tamanho'] ?></h2>
 							<!-- <p>10.30.2016</p> -->
 						</header>
