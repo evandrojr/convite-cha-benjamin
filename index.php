@@ -75,8 +75,8 @@
 				<div class="inner">
 					<article class="box">
 						<header>
-							<h2> "Em verdade vos digo que, se não vos converterdes e não vos fizerdes como meninos, de modo algum entrareis no reino dos céus. Portanto, aquele que se tornar humilde como este menino, esse é o maior no reino dos céus."</h2>
-							<p>(Mateus 18:2-3)</p>
+						<h2>Nossa benção está chegando...</h2>
+						<!-- <p>(Mateus 18:2-3)</p> -->
 						</header>
 						<!-- <div class="content">
 							<p>Scelerisque enim mi curae erat ultricies lobortis donec velit in per cum consectetur purus a enim platea vestibulum lacinia et elit ante scelerisque vestibulum. At urna condimentum sed vulputate a duis in senectus ullamcorper lacus cubilia consectetur odio proin sociosqu a parturient nam ac blandit praesent aptent. Eros dignissim mus mauris a natoque ad suspendisse nulla a urna in tincidunt tristique enim arcu litora scelerisque eros suspendisse.</p>
