@@ -99,8 +99,8 @@
 						</header>
 						<div class="content">
 						<h4>Filho amado, bem amado<br>
-Filho da nossa felicidade,  aquele que traz alegrias sem fim<br>
-Filho da mão direita, filho forte e companheiro, filho com quem podemos contar<br>
+Filho da nossa felicidade,  aquele que traz alegrias<br>
+Filho da mão direita, filho forte e companheiro<br>
 Filho do povo de Deus, filho amado de Deus</h4>
 						</div>
 						<footer>
